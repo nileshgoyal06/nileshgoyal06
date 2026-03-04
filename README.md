@@ -1,89 +1,84 @@
 <h1 align="center">Hi 👋, I'm Nilesh Goyal</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | IIIT Una</h3>
+<h3 align="center">💻 Full Stack Developer | 🧠 DSA in C++ | 🚀 MERN Stack</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nilesh-goyal-b92729230/">
-<img src="https://img.shields.io/badge/LinkedIn-Nilesh%20Goyal-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://mediconnectfrontends.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Project-MediConnect-green?style=for-the-badge"/>
-</a>
+🎓 B.Tech CSE @ IIIT Una  
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-• B.Tech CSE student at **IIIT Una**  
-• Full Stack Developer specializing in **MERN Stack**  
-• Experience building scalable **full-stack web applications**  
-• Solved **400+ DSA problems** across coding platforms  
+* 🎓 B.Tech CSE student at **IIIT Una**
+* 💻 Full Stack Developer specializing in **MERN Stack**
+* 🧠 Solved **400+ DSA problems**
+* ⚡ Passionate about building **real-world scalable web applications**
+* 🌱 Currently improving **system design & backend architecture**
 
 ---
 
-## ⚡ Tech Stack
+# 🌐 Connect With Me
 
-**Languages**
+<p align="left">
 
-C++ • C • JavaScript • HTML • CSS • SQL  
+<a href="https://www.linkedin.com/in/nilesh-goyal-b92729230/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Frameworks / Libraries**
+<a href="https://mediconnectfrontends.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Project-MediConnect-green?style=for-the-badge"/>
+</a>
 
-React.js • Node.js • Express.js • Redux • Tailwind CSS  
+</p>
 
-**Databases**
+---
 
-MongoDB • Firebase  
+# 💻 Tech Stack
 
-**Developer Tools**
+<p align="left">
 
-Git • VS Code • Postman • MongoDB Compass  
+<img src="https://skillicons.dev/icons?i=cpp,c,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode,postman" />
 
-**Concepts**
-
-REST APIs • JWT Authentication • Data Structures • Algorithms • OOP • DBMS  
+</p>
 
 ---
 
 # 🚀 Featured Project
 
-### MediConnect – Doctor Appointment System
+## 🏥 MediConnect – Doctor Appointment System
 
-Live Project  
+🔗 Live Project
 https://mediconnectfrontends.vercel.app/
 
-Tech Stack  
-React.js • Tailwind CSS • Node.js • Express.js • MongoDB  
+⚙️ Tech Stack
+React.js • Tailwind CSS • Node.js • Express.js • MongoDB
 
-Features
+✨ Features
 
-• Secure authentication system  
-• Doctor appointment scheduling  
-• Automated appointment reminders  
-• Responsive and user-friendly interface  
+* Secure authentication system
+* Doctor appointment scheduling
+* Automated appointment reminders
+* Responsive UI with Tailwind CSS
 
 ---
 
-# 💼 Experience
+# 💼 Internship Experience
 
-### Full Stack Developer Intern  
+### 💻 Full Stack Developer Intern
+
 Avyukt Core Technologies
 
-Worked on real-world client projects and production applications.
+Worked on real-world client project
 
-**Client Work**
+🔗 https://kunalfabtech.com/
 
-Kunal Global Fabtech Pvt. Ltd.  
-https://kunalfabtech.com/
-
-• Developed full-stack user and admin panels  
-• Managed **3000+ worker records**  
-• Built secure APIs and optimized backend performance  
-• Improved dashboard load speed and API response time  
+* Built full-stack **user & admin panels**
+* Managed **3000+ worker records**
+* Optimized REST APIs improving performance
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -97,7 +92,6 @@ https://kunalfabtech.com/
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-📧 nileshgoyal624@gmail.com  
-🔗 LinkedIn
+📧 [nileshgoyal624@gmail.com](mailto:nileshgoyal624@gmail.com)
